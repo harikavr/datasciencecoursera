@@ -1,0 +1,21 @@
+---
+title: "Helloworld"
+author: "Harika V R"
+date: "08/07/2020"
+output: html_document
+---
+
+
+
+## This is a markdown file
+
+
+
+```{r}
+#Print a string
+print("Hello World!")
+print("This is my first markdown file")
+#Print a integer value
+print(423+657*345)
+
+```
